@@ -1,0 +1,31 @@
+body{
+    height: 100vh;
+    width: 100vw;
+}
+
+
+.nav-ele{
+    display: flex;
+    justify-content: center;
+}
+
+.meal-box{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#footer p a{
+    text-decoration: none;
+    color: black;
+}
+
+#footer{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: center;
+    background-color: brown;
+    color: wheat;
+}
